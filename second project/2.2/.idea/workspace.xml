@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34299644-dd51-4b0f-a15f-b1ea3c3be37a" name="Changes" comment="" />
+    <list default="true" id="34299644-dd51-4b0f-a15f-b1ea3c3be37a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../2.1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1/.idea/second project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +41,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Татьяна\Desktop\Django projects\second project\2.2" />
       <recent name="C:\Users\Татьяна\Desktop\Django projects\second project\2.2\pagination" />
     </key>
   </component>
